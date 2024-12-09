@@ -7,7 +7,7 @@ First : Welcome to this experimentation lab !
 💬 You can ask me about Java, Spring, Angular, VueJS
 
 ---
-⚡here are some of the tools that i'm interested in :
+⚡here are some of the subjects and tools that i'm interested in :
 (coming soon)
 
 <!--
