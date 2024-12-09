@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Tintin, the avatar of this repository owner
 
 🔭 I’m currently working on Spring Observability, IA APIs and NLP
+
 💬 You can ask me about Java, Spring, Angular, VueJS
 
 ---
