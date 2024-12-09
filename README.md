@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋 I'm Tintin, the avatar of this repository owner
+
+🔭 I’m currently working on Spring Observability, IA APIs and NLP
+💬 You can ask me about Java, Spring, Angular, VueJS
+
+---
+⚡here are some of the tools that i'm interested in :
+(coming soon)
 
 <!--
 **NaoufalElmeskini/NaoufalElmeskini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
