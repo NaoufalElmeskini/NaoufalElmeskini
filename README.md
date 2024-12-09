@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Tintin! (may or may not be my real name)
+## Hi there 👋 I'm Tintin!
 
 First : Welcome to this experimentation lab !
 
