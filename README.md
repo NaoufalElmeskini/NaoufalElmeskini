@@ -1,4 +1,6 @@
-## Hi there 👋 I'm Tintin, the avatar of this repository owner
+## Hi there 👋 I'm Tintin! (may or may not be my real name)
+
+First : Welcome to this experimentation lab !
 
 🔭 I’m currently working on Spring Observability, IA APIs and NLP
 
