@@ -2,7 +2,7 @@
 
 First, Welcome to this experimentation lab !
 
-🔭 I’m currently working on Spring Observability, IA APIs and NLP
+🔭 I’m currently working on AWS, Spring Observability, IA NLP and provider APIs. 
 
 💬 You can ask me about Java, Spring, Angular, VueJS
 
