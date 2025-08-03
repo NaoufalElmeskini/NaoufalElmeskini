@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Tintin!
 
-First, Welcome to this experimentation lab!
+First, welcome to this experimentation lab!
 
 🔭 I’m currently working on AWS, Spring Observability, IA NLP and provider APIs. 
 
